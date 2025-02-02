@@ -13,7 +13,9 @@ export default function Home() {
           priority
         />
 
-        <div className="mb-2">Hey this is my Next.js app with SST</div>
+        <div className="mb-2">
+          Hey this is my Next.js app with SST and updated content
+        </div>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
