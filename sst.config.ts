@@ -11,7 +11,7 @@ export default $config({
     };
   },
   async run() {
-    new sst.aws.Nextjs("MyWeb", {
+    new sst.aws.Nextjs("NextSST", {
       domain: {
         name: "app.ingwersen.dev",
         dns: sst.cloudflare.dns(),

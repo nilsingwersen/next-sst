@@ -14,7 +14,7 @@ export default function Home() {
         />
 
         <div className="mb-2">
-          Hey this is my Next.js app with SST and updated content
+          Hey this is my Next.js app with SST and updated content on prod
         </div>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
